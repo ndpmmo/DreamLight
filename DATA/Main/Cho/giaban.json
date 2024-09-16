@@ -1,0 +1,16 @@
+{
+    "items": [
+      {
+        "name": "Bánh mì",
+        "prices": [15000, 20000]
+      },
+      {
+        "name": "Bánh Cookie",
+        "prices": [1000, 2000]
+      },
+      {
+        "name": "Bánh Kem",
+        "prices": [34000, 45000]
+      }
+    ]
+  }
