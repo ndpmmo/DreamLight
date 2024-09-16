@@ -1,23 +1,23 @@
 {
     "ingredients": [
       {
-        "name": "Lúa mì",
-        "price": [8000]
+        "name": "luami",
+        "price": [5000]
       },
       {
-        "name": "Hạt Ca Cao",
+        "name": "hatcacao",
         "price": [6000]
       },
       {
-        "name": "Đường",
+        "name": "duong",
         "price": [2000]
       },
       {
-        "name": "Trứng",
+        "name": "trung",
         "price": [4000]
       },
       {
-        "name": "Sữa",
+        "name": "sua",
         "price": [5000]
       }
     ]
