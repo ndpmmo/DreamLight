@@ -2,7 +2,7 @@
     "items": [
       {
         "name": "banhmi",
-        "prices": [15000, 20000]
+        "prices": [15000, 100000]
       },
       {
         "name": "banhcookie",
